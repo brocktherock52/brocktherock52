@@ -4,6 +4,8 @@ Trader and builder. 23. Building toward $1M in public.
 
 I ship small systems that make money or save time, then write honestly about what worked and what did not at [brockpivec.com](https://brockpivec.com).
 
+**Full venture map: [brocktherock52/ventures](https://github.com/brocktherock52/ventures)** (every project, stack, and status in one place).
+
 ## What I'm building
 
 - **[Brocco](https://github.com/brocktherock52/brocco)**: agents that do the work. Multi-agent AI dashboard, BYOK or hosted. Live at [brocco.dev](https://brocco.dev).
